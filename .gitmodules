@@ -1,0 +1,3 @@
+[submodule "bfs_gcgt/cub"]
+	path = bfs_gcgt/cub
+	url = https://github.com/NVlabs/cub.git
